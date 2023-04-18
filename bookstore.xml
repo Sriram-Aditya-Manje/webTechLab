@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+<bookstore>
+<book>
+  <title>Wren and Martin</title>
+  <author>Bhakthi jadhav</author>
+  <year>2003</year>
+  <publisher>Teja</publisher>
+  <price>5.00</price>
+</book>
+<book>
+  <title></title>
+  <author>J K. Rowling</author>
+  <year>2005</year>
+  <publisher>kranthi</publisher>
+  <price>29.99</price>
+</book>
+<book>
+  <title>Learning XML</title>
+  <author>Erik T. Ray</author>
+  <year>2003</year>
+  <publisher>kranthi</publisher>
+  <price>39.95</price>
+</book>
+<book>
+  <title>C++</title>
+  <author>Balamurgan</author>
+  <year>2004</year>
+  <publisher>kranthi</publisher>
+  <price>40</price>
+</book>
+</bookstore>
